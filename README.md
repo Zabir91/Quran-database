@@ -1,5 +1,5 @@
 # Quran-database
-Bangla translation of Quran Databases in corrected spelling, which was distributed in http://tanzil.net
+Bangla translation of Quran Databases in corrected spelling, which were distributed in http://tanzil.net
 
 ## ditrubuted Files
 *.sql,*.xml, *.txt , *.txt (Zekr), *.db
